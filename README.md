@@ -1,8 +1,10 @@
 # Seulgi Park
 
-Email: <sarropark@naver.com>
+*Email*: <sarropark@naver.com>
 
-<image src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/> seulgi_park
+
+<image src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> seulgi_park
+
 <image src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> [Notion](https://www.notion.so/oreumi/68d2a901bd3244d2b52fff8558765094?v=491f6d9be39a4468b77a4e7871db4091&pvs=4 "Notion link" )
 
 <image src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  [IG](https://www.instagram.com/sarropk/?hl=en "IG link" )
